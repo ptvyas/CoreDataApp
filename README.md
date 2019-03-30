@@ -1,0 +1,2 @@
+# CoreDataApp
+CoreData Demo App
